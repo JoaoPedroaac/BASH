@@ -63,4 +63,3 @@ POST /api/users
 }
 ```
 
-Simples e direto! 🎯
